@@ -5,7 +5,7 @@ The game features a small T-Rex dinosaur that runs and jumps over obstacles like
 ## How to Play:
 To start the game, simply run the main.py: 
 ```
-python main.py.
+python main.py
 ```
 
 - The objective of the game is to survive for as long as possible by avoiding obstacles. 
@@ -20,5 +20,5 @@ is the distance that you managed to cover.
 To run the game, you need to have Python 3.11 and Pygame installed on your computer. 
 You can install Pygame using pip: 
 ```
-pip install pygame.
+pip install pygame
 ```
