@@ -3,7 +3,7 @@ This is a recreation of the popular Google Chrome dinosaur game built using the 
 The game features a small T-Rex dinosaur that runs and jumps over obstacles like cactuses and birds.
 
 ## Prerequisites:
-- To run the game, you need to have Python 3.11 and Pygame installed on your computer. 
+To run the game, you need to have Python 3.11 and Pygame installed on your computer. 
 You can install Pygame using pip: 
 ```
 pip install pygame.
